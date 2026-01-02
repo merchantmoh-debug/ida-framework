@@ -411,7 +411,8 @@ If you use IDA Framework in your research, please cite:
   title={IDA Framework: Systematic Methodology for Rigorous AI Research},
   author={Your Name},
   year={2025},
-  url={https://github.com/merchantmoh-debug/ida-framework}
+  url={https://github.com/merchantmoh-debug/ida-framework},
+  doi={10.5281/zenodo.17876660}
 }
 ```
 
@@ -424,6 +425,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 ## Links
+
+- **Full paper**: [https://doi.org/10.5281/zenodo.17876660](https://doi.org/10.5281/zenodo.17876660)
 
 - **Documentation**: [docs/](docs/)
 - **Examples**: [examples/](examples/)
