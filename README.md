@@ -409,7 +409,7 @@ If you use IDA Framework in your research, please cite:
 ```bibtex
 @software{ida_framework,
   title={IDA Framework: Systematic Methodology for Rigorous AI Research},
-  author={Your Name},
+  author={Mohamad Al-zawahreh},
   year={2025},
   url={https://github.com/merchantmoh-debug/ida-framework},
   doi={10.5281/zenodo.17876660}
